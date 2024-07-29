@@ -1,4 +1,4 @@
-# Data Analysis Project
+# Data Science Project
 
 ## 💡 Project Overview
 
