@@ -81,3 +81,34 @@ This step involves analyzing the textual comments to determine the sentiment (po
 4. Integration and Visualization: Integrate the sentiment analysis results and extracted prices into a visual report (e.g., using Matplotlib or a BI tool).
 
 ## 🌿 Results and Conclusion
+**Key Findings**
+**Overview**
+- Analyzed data on orders, payments, reviews, and sellers from Brazilian e-commerce.
+- Observed steady business growth from 2017 to 2018.
+
+**Orders and Delivery**
+- 97.02% of orders successfully delivered.
+- Average delivery time 11.88 days earlier than expected.
+- Identified seasonal and weekly order patterns.
+
+**Products and Categories**
+- Most popular categories: home goods, sports and leisure, furniture and decor.
+- Majority of products represented by 1-2 photos.
+
+**Payments**
+- Credit cards are the most popular payment method (≈75% of transactions).
+- Most purchases paid immediately, without installments.
+
+**Customer Reviews**
+- Majority of reviews have high ratings (5 stars).
+- Negative correlation found between rating and review length.
+
+**Sellers**
+- Significant concentration of sellers in southeastern Brazil.
+- São Paulo leads in number of sellers (694).
+
+## Recommendations
+- Optimize delivery time prediction system.
+- Develop marketing strategies considering seasonality.
+- Analyze reasons for low ratings to improve services.
+- Consider opportunities to expand the seller network in less represented regions.
