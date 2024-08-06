@@ -1,4 +1,4 @@
-# Data Science Project
+# Latin America E-commerce Project
 
 ## 💡 Project Overview
 
