@@ -80,7 +80,7 @@ This step involves analyzing the textual comments to determine the sentiment (po
 3. Model Evaluation: Evaluate the sentiment classification model using metrics like accuracy, precision, and recall.
 4. Integration and Visualization: Integrate the sentiment analysis results and extracted prices into a visual report (e.g., using Matplotlib or a BI tool).
 
-## 🌿 Results and Conclusion
+## 🌿 Results and Conclusion (after EDA)
 **Key Findings**
 **Overview**
 - Analyzed data on orders, payments, reviews, and sellers from Brazilian e-commerce.
